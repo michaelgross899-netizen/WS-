@@ -1,0 +1,6 @@
+tmp/
+.sites-runtime/
+*.tar
+*.tar.gz
+node_modules/
+.openai/
